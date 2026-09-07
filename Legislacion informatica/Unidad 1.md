@@ -32,7 +32,7 @@ La Unión Europea opera bajo el estándar de privacidad más estricto a nivel gl
 - **Comité Europeo de Protección de Datos (EDPB / CEPD):** Órgano europeo independiente con personalidad jurídica que garantiza la aplicación coherente de las normas de privacidad en toda la UE.
 - **Autoridades Nacionales de Control:** Cada país miembro tiene un organismo regulador autónomo e independiente del gobierno en turno. Por ejemplo, en España opera la **AEPD** (_Agencia Española de Protección de Datos_) y en Francia la **CNIL**.
 - **Acceso a Documentos Públicos:** A nivel de las instituciones comunitarias, el **Defensor del Pueblo Europeo** (_European Ombudsman_) supervisa que organismos como la Comisión Europea y el Parlamento cumplan con las solicitudes de transparencia de los ciudadanos.
-##Actividad1.3
+## Actividad1.3
 Los artículos constitucionales que tocan tu trabajo.
 
 *Artículo 6° - Acceso a la información*
