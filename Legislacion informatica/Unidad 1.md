@@ -1,9 +1,9 @@
-#Actividad 1.1
+## Actividad 1.1
 En esta carrera la tirada principal es aprender a programar modelos y algoritmos que de verdad sirvan para resolver problemas reales, pero sin descuidar la parte legal y el uso que se le da a la información. O sea, sí te metes a fondo con el código, las matemáticas y el manejo de datos, pero también te enseñan a no regarla con la privacidad de los usuarios ni meterte en problemas de demandas por usar información sin permiso.
 
 También le meten mucho a ver en qué áreas se puede aplicar todo esto, como en cosas de medicina, finanzas, coches que se manejan solos o sistemas para escuelas. Lo importante es que cuando saques un proyecto no termine haciendo discriminación por culpa de datos mal entrenados o tomando decisiones raras. Al final lo que se espera es que salgas sabiendo armar tecnología que funcione bien, que le entiendas a los retos nuevos que van saliendo y que puedas llevar un proyecto de inicio a fin sabiendo exactamente qué reglas tienes que cumplir.
 
-#Actividad 1.2
+## Actividad 1.2
 Tras la reforma constitucional que extinguió el Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales (INAI) en México, sus funciones no pasaron a un órgano autónomo descentralizado, sino que se integraron a la estructura del Ejecutivo Federal.
 
 | **Región**         | **Modelo de Garantía**    | **Organismo / Dependencia**                                                                       | **Tipo de Estructura**                                                   |
@@ -32,7 +32,7 @@ La Unión Europea opera bajo el estándar de privacidad más estricto a nivel gl
 - **Comité Europeo de Protección de Datos (EDPB / CEPD):** Órgano europeo independiente con personalidad jurídica que garantiza la aplicación coherente de las normas de privacidad en toda la UE.
 - **Autoridades Nacionales de Control:** Cada país miembro tiene un organismo regulador autónomo e independiente del gobierno en turno. Por ejemplo, en España opera la **AEPD** (_Agencia Española de Protección de Datos_) y en Francia la **CNIL**.
 - **Acceso a Documentos Públicos:** A nivel de las instituciones comunitarias, el **Defensor del Pueblo Europeo** (_European Ombudsman_) supervisa que organismos como la Comisión Europea y el Parlamento cumplan con las solicitudes de transparencia de los ciudadanos.
-#Actividad1.3
+##Actividad1.3
 Los artículos constitucionales que tocan tu trabajo.
 
 *Artículo 6° - Acceso a la información*
@@ -55,7 +55,7 @@ Prohíbe toda discriminación motivada por origen étnico, género, edad, discap
 
 Garantiza que todas las personas tengan <u>derechos humanos y protección legal</u>, obligando a las autoridades a respetarlos y protegerlos. También prohíbe la <u>esclavitud y la discriminación</u> por cualquier condición que afecte la dignidad y libertad de las personas.
 
-#Actividad1.4
+## Actividad1.4
 ```mermaid
 graph TD
     A("<b>1.- Propuestas de regulación de IA</b>")
